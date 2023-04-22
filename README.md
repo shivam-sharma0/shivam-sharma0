@@ -1,4 +1,4 @@
-# Hii 👋 I am Shivam 
+# Hii 👋, I'm Shivam 
  <br>🌱 I’m currently learning JAVA, DSA<br>💬 Ask me about JAVA, HTML, CSS, JavaScript, React, Redux and DSA<br>📫 How to reach me: vashistshivam931@gmail.com<br>📫 All My Projects: https://github.com/shivam-sharma0
 
 
